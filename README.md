@@ -1,4 +1,5 @@
-# https-suny-talk-sales.lovable.app
+https://suny-talk-sales.lovable.app
+
 App de gestao de vendas e finanças.
 PRD refinado com a ajuda da IA copilot web e app criado com a ajuda do lovable.
 
